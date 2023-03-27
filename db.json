@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "name": "Dexter Mann",
+      "id": 1
+    },
+    {
+      "name": "Lamar McLaughlin",
+      "id": 2
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Luxurious Wooden Cheese",
+      "id": 23
+    },
+    {
+      "userId": 2,
+      "title": "Awesome Frozen Ball",
+      "id": 24
+    },
+    {
+      "userId": 1,
+      "title": "Awesome Concrete Sausages",
+      "id": 26
+    },
+    {
+      "userId": 23,
+      "title": "Fantastic Cotton Chicken",
+      "id": 27
+    },
+    {
+      "userId": 23,
+      "title": "Oriental Cotton Bike",
+      "id": 28
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 23,
+      "url": "https://loremflickr.com/150/150/abstract?lock=92450",
+      "id": 1
+    },
+    {
+      "albumId": 23,
+      "url": "https://loremflickr.com/150/150/abstract?lock=29339",
+      "id": 2
+    },
+    {
+      "albumId": 23,
+      "url": "https://loremflickr.com/150/150/abstract?lock=93487",
+      "id": 3
+    }
+  ]
+}
